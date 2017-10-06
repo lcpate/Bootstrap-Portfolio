@@ -173,7 +173,9 @@
  		width:500px;
  }
 
- /*.navbar-header {
+ /*Below is the css for the navbar with the hamburger menu- see the contact html for more info*/
+
+ .navbar-header {
         float: none;
     }
     .navbar-toggle {
@@ -196,6 +198,6 @@
     .navbar-nav>li>a {
         padding-top: 10px;
         padding-bottom: 10px;
-    }*/
+    }
 }
 
